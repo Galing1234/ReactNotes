@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactNotes/static/css/main.f461ad2c.css",
+    "main.js": "/ReactNotes/static/js/main.22f92332.js",
+    "static/media/react-logo-white.png": "/ReactNotes/static/media/react-logo-white.c9ed2161518b81e33424.png",
+    "index.html": "/ReactNotes/index.html",
+    "main.f461ad2c.css.map": "/ReactNotes/static/css/main.f461ad2c.css.map",
+    "main.22f92332.js.map": "/ReactNotes/static/js/main.22f92332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f461ad2c.css",
+    "static/js/main.22f92332.js"
+  ]
+}
